@@ -19,39 +19,39 @@ layout: default
 
 #### 2. 进入券商开户通道，填写手机号和验证码。
 
-！[](https://pic.imgdb.cn/item/65b27f4d871b83018aacfa78.jpg)
+![](https://pic.imgdb.cn/item/65b27f4d871b83018aacfa78.jpg)
 
 #### 3. 填写风险评测表。
 
-！[](https://pic.imgdb.cn/item/65b281b4871b83018ab815c8.jpg)
+![](https://pic.imgdb.cn/item/65b281b4871b83018ab815c8.jpg)
 
 #### 4. 开通股票账户。勾选【新开】上海A股，再勾选【新开】深圳A股。如果在其他券商已经有账户的话，也可以勾选「转户」，填写相应的账户号码。
 
-！[](https://pic.imgdb.cn/item/65b27f4d871b83018aacfb2b.jpg)
+![](https://pic.imgdb.cn/item/65b27f4d871b83018aacfb2b.jpg)
 
 #### 5. 设置交易密码。
 
-！[](https://pic.imgdb.cn/item/65b27f4c871b83018aacf965.jpg)
+![](https://pic.imgdb.cn/item/65b27f4c871b83018aacf965.jpg)
 
 #### 6.「阅读并同意」风险揭示书。
 
-！[](https://pic.imgdb.cn/item/65b27f4c871b83018aacf8d0.jpg)
+![](https://pic.imgdb.cn/item/65b27f4c871b83018aacf8d0.jpg)
 
 #### 7. 绑定三方存管银行。
 
-！[](https://pic.imgdb.cn/item/65b27f4d871b83018aacfa13.jpg)
+![](https://pic.imgdb.cn/item/65b27f4d871b83018aacfa13.jpg)
 
 #### 8. 视频认证。
 
-！[](https://pic.imgdb.cn/item/65b281b5871b83018ab8173b.jpg)
+![](https://pic.imgdb.cn/item/65b281b5871b83018ab8173b.jpg)
 
 #### 9. 提交开户结果，需要等待1个交易日，就能成功开户。
 
-！[](https://pic.imgdb.cn/item/65b281b4871b83018ab81666.jpg)
+![](https://pic.imgdb.cn/item/65b281b4871b83018ab81666.jpg)
 
 #### 10. 第二天会收到开户成功的短信，如下图所示。
 
-！[](https://pic.imgdb.cn/item/65b281b4871b83018ab814e0.jpg)
+![](https://pic.imgdb.cn/item/65b281b4871b83018ab814e0.jpg)
 
 开户成功之后，客户经理会给你调整费率。  
 建议添加客户经理（微信：gjzq555），确保交易佣金等费率尽快调整。   
@@ -59,7 +59,8 @@ layout: default
 
 ---
 
-关键字: 国金证券万1开户链接，华泰证券万1开户链接,    
-国泰君安万一免五低佣金开户，中信证券万1开户链接，   
-海通证券万1开户链接，国元证券万1开户链接，  
-同花顺开户链接，东方财富开户链接。  
+#### 关键字: 
+- 国金证券万1开户链接，华泰证券万1开户链接,    
+- 国泰君安万一免五低佣金开户，中信证券万1开户链接，   
+- 海通证券万1开户链接，国元证券万1开户链接，  
+- 同花顺开户链接，东方财富开户链接。  
