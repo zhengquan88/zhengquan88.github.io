@@ -17,7 +17,7 @@ layout: default
 
 #### 2. 进入券商开户通道，填写手机号和验证码。
 
-![](https://pic.imgdb.cn/item/65b27f4d871b83018aacfa78.jpg)
+![](https://pic.imgdb.cn/item/65b286ce871b83018acf06c3.jpg)
 
 #### 3. 填写风险评测表。
 
