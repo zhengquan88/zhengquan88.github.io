@@ -21,7 +21,7 @@ layout: default
 
 #### 3. 填写风险评测表。
 
-![](https://pic.imgdb.cn/item/65b281b4871b83018ab815c8.jpg)
+![](https://pic.imgdb.cn/item/65b285d8871b83018acb1352.jpg)
 
 #### 4. 开通股票账户。勾选【新开】上海A股，再勾选【新开】深圳A股。
 
