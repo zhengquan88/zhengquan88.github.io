@@ -27,7 +27,7 @@ layout: default
 
 （如果在其他券商已经有账户，也可以勾选「转户」，填写原来的沪A和深A。）
 
-![](https://pic.imgdb.cn/item/65b27f4d871b83018aacfb2b.jpg)
+![](https://pic.imgdb.cn/item/65b28622871b83018acc421d.jpg)
 
 #### 5. 设置交易密码。
 
