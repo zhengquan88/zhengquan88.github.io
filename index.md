@@ -50,7 +50,7 @@ layout: default
 
 #### 10. 第二天会收到开户成功的短信，内容如图所示。
 
-![](https://pic.imgdb.cn/item/65b2880c871b83018ad3fac7.jpg)
+![](https://pic.imgdb.cn/item/65b28950871b83018ad8f573.jpg)
 
 
 开户审核通过之后，客户经理会给你调整费率。  
