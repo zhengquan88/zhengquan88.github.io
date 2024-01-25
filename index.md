@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## 券商万一免五开户是真的吗？
+## 券商万一免五开户
 
 国金证券万一免五开户。超低佣金通常是是大客户才有的VIP费率, 正常需要几百万资金才能办理。我们和营业部合作，中小投资人也可以在线开通低佣金的费率。
 
@@ -19,7 +19,7 @@ layout: default
 
 #### 2. 进入券商开户通道，填写手机号和验证码。
 
-<img src=https://img-blog.csdnimg.cn/20200822014538211.png width=60% />
+<img src=https://pic.imgdb.cn/item/65b27f4d871b83018aacfa78.jpg width=60% />
 
 ####3. 填写风险评测表。
 
