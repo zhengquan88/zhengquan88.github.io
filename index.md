@@ -14,9 +14,11 @@ layout: default
 
 #### 0. 打开微信，扫客户经理的二维码。
 
-![](https://pic.ziyuan.wang/user/guest/2024/01/Screenshot)
+![](https://pic.ziyuan.wang/user/guest/2024/01/Screenshot from 2024-01-26 15-32-32_837ccee110301.png)
 
-#### 1. 扫码进入券商自主开户通道。
+#### 1. 扫码客户经理的二维码，进入券商自主开户通道。
+
+![](https://pic.ziyuan.wang/user/guest/2024/01/processed-db1df4fb-7f37-48c3-bfb2-34891313adda_1On8C1RK _1__7a03d2185468b.jpeg)
 
 #### 2. 进入券商开户通道，填写手机号和验证码。
 
